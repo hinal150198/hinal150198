@@ -24,14 +24,20 @@ After surface development it was time to make the wheels. Sixteen cardboard whee
 
 Initially, we cut straw into small pieces and inserted them not only between but also on the either sides of cardboard pieces. The skewers were inserted between the straw pieces. We did our first trial and noticed that skewers' movement was restricted as it collided with the cardboard piece attached to the chassis. It is seen in the video given below that the car covers a very small distance after being launched from the inclined plane.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
-(https://youtu.be/TvlMEa5FlKA"1st trial")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TvlMEa5FlKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 After our realisation we replaced the straw pieces with a whole straw and hence we had to drill bigger holes of the size of the straw in the cardboard piece. The image given below shows the attachment of skewers, straws and the wheels. Masking tape was used on either ends so that the wheels do not come off while being rotated.
 
 ![5](https://user-images.githubusercontent.com/36818885/37665615-a7417c92-2c83-11e8-9f24-6f1ca1c016a6.jpg)
 
-Now the car was ready for a rigorous trial and error session. We launched our car from different heights of the inclined plane and made hundreds of small changes, making our car a bit more efficient. All the changes were followed by observations and conclusions which eventually became a major part of our learning. We thrice changed the diameter of the wheels (every time increased the size), we increased the distance between the two pairs of wheels, we increased the distance between two wheels on the same axel, we added weight by putting some clay. At last we coloured the car with alcohol markers and named it KTM 990 (Note that 990 was the LCM of our roll Numbers :p)
+Now the car was ready for a rigorous trial and error session. We launched our car from different heights of the inclined plane and made hundreds of small changes, making our car a bit more efficient. All the changes were followed by observations and conclusions which eventually became a major part of our learning. We thrice changed the diameter of the wheels (every time increased the size), we increased the distance between the two pairs of wheels, we increased the distance between two wheels on the same axel, we added weight by putting some clay.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-GJs76bo6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+At last we coloured the car with alcohol markers and named it KTM 990 (Note that 990 was the LCM of our roll Numbers :p)
 
 ![6](https://user-images.githubusercontent.com/36818885/37670495-74ba69bc-2c8f-11e8-82ce-3dd92cbca516.jpg)
 
