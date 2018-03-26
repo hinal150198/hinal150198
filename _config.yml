@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Amazing blog of hinal150198
+title: Button
 email: hinal.shah20@nmims.edu.in
 description: >- # this means to ignore newlines until "baseurl:"
-  This is an amazing blog of a student pursuing B.des at NMIMS, School of Design. This blog will include posts about Design and Technology, so stay tuned for amazing posts!
+  Have you ever wondered how messed up your life would be if you lose the button from your pants while you are in an event? We are so busy cribbing about cars and gadjets that we don't value little things that make a huge difference in our life. This blog will contain those 'button' like assignments done by a design student pursuing B.des in Humaninsing Technology at NMIMS, School of Design. So stay tuned for more posts related to Design and Technology! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hinal150198
