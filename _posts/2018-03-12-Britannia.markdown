@@ -32,6 +32,7 @@ Step-4
 The final logo was created in the reverse background i.e. it was transformed into a black-and-white logotype for it's specific usage.
 
 Step-5
+
 ![untitled-mn2](https://user-images.githubusercontent.com/36818885/38131658-8c320148-3425-11e8-99a6-01a2add2ba04.jpg)
 
 The assignment ended with us creating an app icon for our respective brands. The above image is the app icon for Britannia Industries Limited.
