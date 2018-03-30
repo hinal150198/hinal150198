@@ -27,6 +27,7 @@ Step-3 (Mock-up 3)
 After much brain-storming, this was the final logo which was liked and approved by my facilitator and my classmates. Hope you like it too :). This logotype is based on the ideation that Britannia does not only have corporate identity but it also manufactures products for kids which are very healthy. The aspect of good health is also present in the brand's tagline "Eat Healthy, Think Better". The two wheat stalks in place of letter 'I' represents healthy wheat flour as an integral ingredient of the food products manufactured by Britannia. Being simplistic and minimalistic, it even helps portray the corporate identity of the brand.
 
 Step-4
+![untitled-2bf](https://user-images.githubusercontent.com/36818885/38131333-5029d0dc-3424-11e8-93a2-75c40aa5ab8f.jpg)
 
 
 {% if page.comments %}
