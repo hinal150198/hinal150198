@@ -2,7 +2,7 @@
 layout: post
 title:  "Britannia- Eat Healthy, Think Better!"
 comments: true
-date:   2018-03-30 19:50:58 +0530
+date:   2018-03-30 14:15:58 +0530
 categories: jekyll update
 ---
 
@@ -29,6 +29,13 @@ After much brain-storming, this was the final logo which was liked and approved 
 Step-4
 ![untitled-2bf](https://user-images.githubusercontent.com/36818885/38131333-5029d0dc-3424-11e8-93a2-75c40aa5ab8f.jpg)
 
+The final logo was created in the reverse background i.e. it was transformed into a black-and-white logotype for it's specific usage.
+
+Step-5
+![untitled-mn2](https://user-images.githubusercontent.com/36818885/38131658-8c320148-3425-11e8-99a6-01a2add2ba04.jpg)
+The assignment ended with us creating an app icon for our respective brands. The above image is the app icon for Britannia Industries Limited.
+
+Hope you liked this assignment. Stay tuned for more posts about my various assignments!
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
