@@ -21,7 +21,7 @@ Step-2 (Mock-up 2)
 
 The above logotypes were the second mock-ups created for this assignment. These logotypes reflects the corporate and professional identity of the brand. This logotype is also a reflection of the two main products namely biscuits and breads manufactured by this brand.
 
-Step-3 (Mock-up 3)
+Step-3 (Final Logotype)
 ![untitled-2](https://user-images.githubusercontent.com/36818885/38130472-de0689a8-3420-11e8-9758-262c52bc896b.jpg)
 
 After much brain-storming, this was the final logo which was liked and approved by my facilitator and my classmates. Hope you like it too :). This logotype is based on the ideation that Britannia does not only have corporate identity but it also manufactures products for kids which are very healthy. The aspect of good health is also present in the brand's tagline "Eat Healthy, Think Better". The two wheat stalks in place of letter 'I' represents healthy wheat flour as an integral ingredient of the food products manufactured by Britannia. Being simplistic and minimalistic, it even helps portray the corporate identity of the brand.
@@ -33,6 +33,7 @@ The final logo was created in the reverse background i.e. it was transformed int
 
 Step-5
 ![untitled-mn2](https://user-images.githubusercontent.com/36818885/38131658-8c320148-3425-11e8-99a6-01a2add2ba04.jpg)
+
 The assignment ended with us creating an app icon for our respective brands. The above image is the app icon for Britannia Industries Limited.
 
 Hope you liked this assignment. Stay tuned for more posts about my various assignments!
